@@ -1,1 +1,3 @@
 # Tugas-MetodeNumerik
+Davin Raditya_21120122140118_Metode Numerik Kelas B
+TUGAS METODE NUMERIK IMPLEMENTASI INTERPOLASI
